@@ -90,6 +90,6 @@ algorithm go 遵循 [Contributor Covenant](http://contributor-covenant.org/versi
 
 ## 使用许可
 
-[MIT](LICENSE) © Athony Wang 
+[MIT](LICENSE) © Felix
 > good luck, may we have a better tomorrow!
 

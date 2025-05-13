@@ -68,7 +68,7 @@
 - [LogicStack-LeetCode](https://github.com/SharingSource/LogicStack-LeetCode) - 😄 a good repo! 三叶姐yyds
 
 ## 维护者
-[@Athony Wang](https://github.com/zhang-wangz)
+[@Felix‌](https://github.com/zhang-wangz)
 
 
 ## 如何贡献
